@@ -21,3 +21,6 @@ WEEBFORCE
 - `dashboard.html`: modern interactive analytics dashboard with real-time multi-dimensional filtering.
 - `generate_charts.py`: Python script for automated batch generation of high-resolution charts.
 - `clean_vgsales.py`: automated data cleaning script.
+- `train_model.py`: end-to-end Machine Learning training pipeline (Scikit-Learn ColumnTransformer, Log-Target transform, multi-model benchmark, feature importance, and inference).
+- `ml_video_game_sales.ipynb`: interactive Jupyter Notebook for Machine Learning experiments and model evaluation.
+- `best_game_sales_model.joblib`: serialized production-ready model pipeline.
